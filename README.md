@@ -119,7 +119,8 @@ git push origin minha-feature
 
 GitHub: https://github.com/devfalcaoo
 
-<img width="325" height="445" alt="image" src="https://github.com/user-attachments/assets/83ffeb66-62f4-4a50-aee6-511410e1ebb5" />
+<img width="692" height="388" alt="WhatsApp Video 2026-06-17 at 10 20 13 (1)" src="https://github.com/user-attachments/assets/fa8f14ee-313b-4b17-961b-20e35f2e16ae" />
+
 
 ## 📄 Licença
 
