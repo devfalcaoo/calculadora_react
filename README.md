@@ -121,9 +121,6 @@ GitHub: https://github.com/devfalcaoo
 
 <img width="325" height="445" alt="image" src="https://github.com/user-attachments/assets/83ffeb66-62f4-4a50-aee6-511410e1ebb5" />
 
-## 📸 Preview
-
-![Preview da Calculadora](./src/assets/preview.png)
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de estudo e prática com React.
